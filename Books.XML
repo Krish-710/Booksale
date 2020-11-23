@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<!DOCTYPE book SYSTEM "books.dtd">
+<book>
+<details>
+<title> C</title>
+<author> BalaGuru Swami</author>
+<ISBN_Number>2536</ISBN_Number>
+<publisher>pearson</publisher>
+<edition>2</edition>
+<price>255/-</price>
+</details>
+<details>
+<title> C++</title>
+<author> BalaGuru Swami</author>
+<ISBN_Number>5236</ISBN_Number>
+<publisher>pearson</publisher>
+<edition>2</edition>
+<price>315/-</price>
+</details>
+<details>
+<title> E-Commerce</title>
+<author> Kalakata</author>
+<ISBN_Number>8562</ISBN_Number>
+<publisher>pearson</publisher>
+<edition>5</edition>
+<price>300/-</price>
+</details>
+<details>
+<title> CO</title>
+<author> Marris </author>
+<ISBN_Number>4578</ISBN_Number>
+<publisher>Dream Tech</publisher>
+<edition>5</edition>
+<price>270/-</price>
+</details>
+<details>
+<title> Web Technologies</title>
+<author> Kumar </author>
+<ISBN_Number>5423</ISBN_Number>
+<publisher>Willay</publisher>
+<edition>6</edition>
+<price>500/-</price>
+</details>
+<details>
+<title> Web Programming</title>
+<author> Kumar </author>
+<ISBN_Number>1258</ISBN_Number>
+<publisher>Willay</publisher>
+<edition>6</edition>
+<price>500/-</price>
+</details>
+</book>
